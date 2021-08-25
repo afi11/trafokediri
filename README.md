@@ -7,10 +7,10 @@
 
 ## Screenshots
 <p align="left">
-  <img src="./screenshots/home.png" width="250">
-  <img src="./screenshots/kinerja_jalan.png" width="250">
-  <img src="./screenshots/rambu.png" width="250">
-  <img src="./screenshots/form_kinerja.png" width="250">
+  <img src="./screenshots/home.jpg" width="250">
+  <img src="./screenshots/kinerja_jalan.jpg" width="250">
+  <img src="./screenshots/rambu.jpg" width="250">
+  <img src="./screenshots/form_kinerja.jpg" width="250">
 </p>
 
 ## Application Features
